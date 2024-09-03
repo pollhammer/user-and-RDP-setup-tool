@@ -1,3 +1,4 @@
+# user-and-RDP-setup-tool
 **DE** <br>
 1. Benutzer erstellen: Fragt nach einem Benutzernamen und Passwort und erstellt einen neuen Benutzer.
 2. Administratorrechte zuweisen: Fügt den neuen Benutzer zur Administratorgruppe hinzu, um ihm erweiterte Berechtigungen zu gewähren.
