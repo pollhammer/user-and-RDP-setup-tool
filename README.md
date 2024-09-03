@@ -1,5 +1,4 @@
-DE <br>
-1. Benutzer erstellen: Fragt nach einem Benutzernamen und Passwort und erstellt einen neuen Benutzer.
+DE <br>1. Benutzer erstellen: Fragt nach einem Benutzernamen und Passwort und erstellt einen neuen Benutzer.
 2. Administratorrechte zuweisen: Fügt den neuen Benutzer zur Administratorgruppe hinzu, um ihm erweiterte Berechtigungen zu gewähren.
 3. RDP aktivieren: Überprüft und aktiviert den Remote Desktop-Zugriff auf dem Computer, falls dieser deaktiviert ist.
 4. RDP-Zugriff gewähren: Fügt den neuen Benutzer zur Gruppe der „Remote Desktop Users“ hinzu, damit er sich über Remote Desktop verbinden kann.
